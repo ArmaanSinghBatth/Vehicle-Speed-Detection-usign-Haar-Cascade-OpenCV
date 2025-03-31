@@ -1,0 +1,1 @@
+In this project we are using Haar Cascasde & Open CV to detect vehicles and estimate its speed. This script reads videos, detects and tracks cars using Haar Cascade, and display the results on the frames.
